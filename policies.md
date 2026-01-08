@@ -30,10 +30,10 @@ Prof. Hoefer's office hours:
 
 Riley Fisher's office hours (in ECCR 211):
 
-- TBD (preferably Thursday and Friday at times not colliding with instructor)
+- TBD
 
 ## Course Information
-See the separate [syllabus document](syllabus.html).
+See the separate [syllabus document](syllabus.md).
 
 ## Estimated Workload
 This is intended to have a high workload, similar to Calculus III (which is 4 credits) and more than an elective class
@@ -59,12 +59,17 @@ supplement.  For example,
 Other good ideas are at the [CSCI-3656 class](https://github.com/cu-numcomp/numcomp-class/blob/master/Syllabus.md#Resources); in particlar, Eijkhout (2017), Introduction to High-Performance Scientific Computing is much more high-performance implementation oriented.
 
 ## Syllabus
-See the separate [syllabus document](syllabus.html) and the detailed [day-by-day schedule](schedule.html)
+See the separate [syllabus document](syllabus.md) and the detailed [day-by-day schedule](schedule.md)
 
 ## Recitations/Labs
 Tuesdays, led by the TA.
 
-For each lab, you must attend in person (we will take attendance if this becomes an issue), and then turn in the required documents to Canvas by midnight on the day of the lab. This counts for 15% of your grade.  Scoring per lab is done on a pass/fail basis.  We will automatically give all students one "free" lab that you do not need to turn in -- you do not need to tell us which lab, we automatically remove one of your lowest scores.
+For each lab, you must attend in person (we take attendance), and then
+turn in the required documents to Canvas by 11:59 PM on the day of the
+lab. This counts for 15% of your grade.  Scoring per lab is done on a
+pass/fail basis.  We will automatically give all students one "free"
+lab that you do not need to turn in -- you do not need to tell us
+which lab, we automatically remove one of your lowest scores.
 
 ## Exams
 - There will be **two midterms** on 2/23/26 and 3/30/26, time (on or
@@ -100,7 +105,7 @@ competing with your classmates.
 
 ## Course website
 
-We will use github for demos and use CU's default LMT **Canvas** for
+We will use github for labs and demos and use CU's default LMT **Canvas** for
 pretty much everything else (grades, homework, solutions, ...).
 
 - We have some prerecorded videos on **youtube** from a Covid
@@ -150,13 +155,6 @@ the assignment (i.e., the entire homework or entire exam). Students
 may be referred to the honor council. On the second occurrence of
 cheating, similar penalties may apply, and additionally the student
 may fail the class, at the instructor's discretion.
-
-<!-- "Minor infractions" include not following the instructions during an -->
-<!-- exam (in person or remote). For example, if the instructions on a -->
-<!-- remote test are to keep your microphone on and your hands in sight of -->
-<!-- your webcam, then failing to follow these instructions construes a -->
-<!-- minor infraction, and (even though cheating may not be proven) you are -->
-<!-- subject to losing points. -->
 
 On homeworks, you are free to **collaborate** with other students, and
 to use resources like the internet appropriately. However, you must do
@@ -356,6 +354,3 @@ health or substance use concerns that are impacting academic or daily
 life, please contact [Counseling and Psychiatric Services
 (CAPS)](https://www.colorado.edu/counseling/), located in C4C, or call
 (303) 492-2277, 24/7.
-
-
-[//]: # (Faculty: insert your procedure here for students to alert you about absence due to illness or quarantine. Because of FERPA student privacy laws, do not require students to state the nature of their illness when alerting you.  For markdown comments, see https://stackoverflow.com/a/20885980)
